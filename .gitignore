@@ -5,7 +5,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.tsv
 # Distribution / packaging
 .Python
 build/
@@ -51,6 +51,7 @@ coverage.xml
 *.mo
 *.pot
 
+*.csv
 # Django stuff:
 *.log
 local_settings.py
